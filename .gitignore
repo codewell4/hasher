@@ -1,0 +1,13 @@
+
+*.dll
+*/[Bb]in/*
+*[Bb]in/*
+*.log
+*.pdb
+*/obj/*
+obj/*
+[Dd]ebug*/
+[Rr]elease*/
+*/[Ll]og/*
+[Ll]og/*
+*.suo
